@@ -7,7 +7,7 @@ namespace Pharmacy.IRepositories
         public void AddMedicine(Medicine medicine);
         public void DeleteMedicine(int id);
         public void UpdateMedicine(int id, Medicine updatedMedicine);
-        public List<Medicine> GetAllMedicines();
         public Medicine? Find(string keyword);
+        public List<Medicine> GetAllMedicines();
     }
 }
