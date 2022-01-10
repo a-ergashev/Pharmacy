@@ -2,6 +2,6 @@
 {
     public class Constants
     {
-        public static readonly string MedicineDBPath = @"C:\Users\Akbar\source\repos\Pharmacy\Pharmacy\Database\MedicineDatabase.json";
+        public static readonly string MedicineDBPath = @"..\..\..\Database\MedicineDatabase.json";
     }
 }
