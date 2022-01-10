@@ -1,0 +1,15 @@
+C:\Users\Akbar\source\repos\UserLog\UserLog\bin\Debug\net6.0\UserLog.exe
+C:\Users\Akbar\source\repos\UserLog\UserLog\bin\Debug\net6.0\UserLog.deps.json
+C:\Users\Akbar\source\repos\UserLog\UserLog\bin\Debug\net6.0\UserLog.runtimeconfig.json
+C:\Users\Akbar\source\repos\UserLog\UserLog\bin\Debug\net6.0\UserLog.dll
+C:\Users\Akbar\source\repos\UserLog\UserLog\bin\Debug\net6.0\ref\UserLog.dll
+C:\Users\Akbar\source\repos\UserLog\UserLog\bin\Debug\net6.0\UserLog.pdb
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.csproj.AssemblyReference.cache
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.AssemblyInfoInputs.cache
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.AssemblyInfo.cs
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.dll
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\ref\UserLog.dll
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.pdb
+C:\Users\Akbar\source\repos\UserLog\UserLog\obj\Debug\net6.0\UserLog.genruntimeconfig.cache
