@@ -45,23 +45,11 @@ namespace Pharmacy.Database
 
             return medicines.Find(medicine => medicine.ID.ToString() == keyword 
             || medicine.Name.ToLower() == keyword || medicine.Price.ToString() == keyword);
-
-            #region txt-based database
-            //string[] lines = File.ReadAllLines(Constants.Constants.MedicineDBPath);
-            //foreach (string line in lines)
-            //{
-            //    string[] lineData = line.Split();
-            //    if (lineData[0] == keyword || lineData[1] == keyword || lineData[2] == keyword)
-            //        return new Medicine() { ID = int.Parse(lineData[0]), Name = lineData[1], Price = decimal.Parse(lineData[2]) };
-            //}
-            //return null;
-            #endregion
         }
         public List<Medicine> GetAllMedicines()
         {
             string jsonString = File.ReadAllText(Constants.Constants.MedicineDBPath);
             return JsonSerializer.Deserialize<List<Medicine>>(jsonString);
-            //medicines = JsonSerializer.Deserialize<List<Medicine>>(jsonString);
         }
     }
 }
