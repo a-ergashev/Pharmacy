@@ -23,6 +23,7 @@ namespace Pharmacy.Database
             medicines = JsonSerializer.Deserialize<List<Medicine>>(jsonString);
 
             Medicine? res = medicines.Find(pill => pill.ID == id);
+            medicines.Remove(res);
             jsonString = JsonSerializer.Serialize(medicines);
             File.WriteAllText(Constants.Constants.MedicineDBPath, jsonString);
         }
